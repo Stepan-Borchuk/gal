@@ -16,6 +16,6 @@
       ".vscode/**"
   ],
   "liveSassCompile.settings.generateMap": true,
-  "liveServer.settings.port": 1240,
+  "liveServer.settings.port": 1242,
   "liveSassCompile.settings.autoprefix": null
 }
